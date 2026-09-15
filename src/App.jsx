@@ -117,5 +117,3 @@ export default function App() {
   );
 }
 
-
-// hello my name is nigel khan
